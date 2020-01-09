@@ -1,0 +1,14 @@
+{
+  "name": "destiny-api",
+  "version": "1.0.0",
+  "description": "Test program for Destiny API",
+  "main": "api_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Irwin <mcfli818@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
